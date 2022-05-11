@@ -24,6 +24,8 @@ function getCount(str) {
     // })
     
     // .join('').length
+    // .join('').length
+    // .join('').length
 
     console.log(`vowel count: ${vowelsCount}`)
     // console.log(`vowel count_arr: ${arr.length}`)
