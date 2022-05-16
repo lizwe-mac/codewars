@@ -12,7 +12,7 @@ function nextBigger(n){
             // console.log('other_nums')
             
             let first_num = [new_array[j]]
-            let other_nums = new_array.slice(0,j).concat(num_string_array.slice(j+1))
+            let other_nums = new_array.slice(0,j).concat(num_string_array.slice(j+1)) //TO-DO fix this now
             console.log(new_array)
             console.log(first_num)
             console.log(other_nums)
