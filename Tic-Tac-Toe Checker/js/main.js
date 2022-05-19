@@ -1,5 +1,5 @@
 function isSolved(board) {
-    // TODO: Check if the board is solved!
+    // TODO: Check if the board is solved! done with that
     if(Number(board[0][0])===Number(board[0][1]) && Number(board[0][0])===Number(board[0][2]) && board[0][0]!=0) {
         console.log('here1')
         return board[0][0]}
